@@ -12,7 +12,7 @@ def search_and_print(file_path, search_string):
 
 
 file_path = 'python.excel.csv'
-search_string = '英文(一)'
+search_string = '課程名稱'
 
 
 search_and_print(file_path, search_string)
